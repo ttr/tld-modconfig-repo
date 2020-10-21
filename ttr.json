@@ -1,6 +1,6 @@
 {
 	"author":"ttr",
-	"authorURL":"https://github.com/ttr", //Link to all your mod repos/Github author page
+	"authorURL":"https://github.com/ttr",
 	"mods":[
 		{
 			"name":"QuickerWoodCutting",
