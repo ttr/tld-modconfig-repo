@@ -6,10 +6,10 @@
 			"name":"QuickerWoodCutting",
 			"author":"<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
 			"authorURL":"-",
-			"version":"2.0", 
-			"updated":"2020-10-21", 
-			"description":"Change time needed to chop wood", 
-			"modURL":"https://github.com/ttr/tld-QuickerWoodCutting", 
+			"version":"2.0",
+			"updated":"2020-10-21",
+			"description":"Change time needed to chop wood",
+			"modURL":"https://github.com/ttr/tld-QuickerWoodCutting",
 			"downloadURL":"https://github.com/ttr/tld-QuickerWoodCutting/releases/latest/download/QuickerWoodCutting.dll",
 			"testedon":{
 				"tldversion":"1.8.3",
@@ -28,10 +28,10 @@
 			"name":"MapTweaks",
 			"author":"<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>, and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
 			"authorURL":"-",
-			"version":"2.0", 
-			"updated":"2020-10-21", 
-			"description":"Change time and range of map survey", 
-			"modURL":"https://github.com/ttr/tld-MapTweaks", 
+			"version":"2.0",
+			"updated":"2020-10-21",
+			"description":"Change time and range of map survey",
+			"modURL":"https://github.com/ttr/tld-MapTweaks",
 			"downloadURL":"https://github.com/ttr/tld-MapTweaks/releases/latest/download/MapTweaks.dll",
 			"testedon":{
 				"tldversion":"1.8.3",
@@ -50,11 +50,31 @@
 			"name":"WarmFood",
 			"author":"<a href='https://github.com/Deus13' target='_blank'>Deus13</a> and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
 			"authorURL":"-",
-			"version":"2.2", 
-			"updated":"2020-10-21", 
-			"description":"Adds warming Buff to cooked food and allows calories adjustment for each meat/fish type.", 
-			"modURL":"https://github.com/ttr/tld-WarmFood", 
+			"version":"2.2",
+			"updated":"2020-10-21",
+			"description":"Adds warming Buff to cooked food and allows calories adjustment for each meat/fish type.",
+			"modURL":"https://github.com/ttr/tld-WarmFood",
 			"downloadURL":"https://github.com/ttr/tld-WarmFood/releases/latest/download/WarmFood.dll",
+			"testedon":{
+				"tldversion":"1.8.3",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"FireAddons",
+			"version":"2.1",
+			"updated":"2020-10-22",
+			"description":"Allows to use Lantern as fire starter and at leevl 3 firestarting tinder can be used as fuel which will add buffs there.",
+			"modURL":"https://github.com/ttr/tld-fireAddons",
+			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
 			"testedon":{
 				"tldversion":"1.8.3",
 				"mlversion":"0.2.7"
