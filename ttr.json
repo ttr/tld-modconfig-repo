@@ -86,7 +86,29 @@
 				"working":true,
 				"issues":"",
 				"notes":""
+			},
+			{
+			"name":"StruggleTweaks",
+			"author":"<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
+			"authorURL":"-",
+			"version":"2.0",
+			"updated":"2020-10-23",
+			"description":"Change time and range of map survey",
+			"modURL":"https://github.com/ttr/tld-StruggleTweaks",
+			"downloadURL":"https://github.com/ttr/tld-StruggleTweaks/releases/latest/download/StruggleTweaks.dll",
+			"testedon":{
+				"tldversion":"1.8.3",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
 			}
+		}
 		}
 	]
 }
