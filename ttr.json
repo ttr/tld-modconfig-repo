@@ -86,8 +86,9 @@
 				"working":true,
 				"issues":"Non Game breaking - see Readme",
 				"notes":""
-			},
-			{
+			}
+		},
+		{
 			"name":"StruggleTweaks",
 			"author":"<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
 			"authorURL":"-",
@@ -108,7 +109,6 @@
 				"issues":"",
 				"notes":""
 			}
-		}
 		}
 	]
 }
