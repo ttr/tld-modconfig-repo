@@ -72,7 +72,7 @@
 			"name":"FireAddons",
 			"version":"1.3",
 			"updated":"2020-10-24",
-			"description":"Allows to use Lantern as fire starter and at level 3 firestarting tinder can be used as fuel which will add buffs there.",
+			"description":"Allows to use Lantern as fire starter and at level 3 firestarting tinder can be used as fuel which will add buffs.",
 			"modURL":"https://github.com/ttr/tld-fireAddons",
 			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
 			"testedon":{
@@ -94,7 +94,7 @@
 			"authorURL":"-",
 			"version":"2.0",
 			"updated":"2020-10-23",
-			"description":"Change time and range of map survey",
+			"description":"Set chance to instantly kill wolf after struggle or change bleedout time for wolf. Also you can change tap power to save your mouse buttons",
 			"modURL":"https://github.com/ttr/tld-StruggleTweaks",
 			"downloadURL":"https://github.com/ttr/tld-StruggleTweaks/releases/latest/download/StruggleTweaks.dll",
 			"testedon":{
