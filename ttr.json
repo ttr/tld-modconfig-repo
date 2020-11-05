@@ -70,11 +70,31 @@
 		},
 		{
 			"name":"FireAddons",
-			"version":"1.5.1",
-			"updated":"2020-10-28",
+			"version":"1.6.1",
+			"updated":"2020-11-05",
 			"description":"Allows to use Lantern as fire starter and at level 3 firestarting tinder can be used as fuel which will add buffs.",
 			"modURL":"https://github.com/ttr/tld-fireAddons",
 			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
+			"testedon":{
+				"tldversion":"1.8.3",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"ArrowMod",
+			"version":"1.0",
+			"updated":"2020-11-01",
+			"description":"Allows to change duration of crafting arrow and arrowhead, and also option to use line for arrow crafting (for realism).",
+			"modURL":"https://github.com/ttr/tld-ArrowMod",
+			"downloadURL":"https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
 			"testedon":{
 				"tldversion":"1.8.3",
 				"mlversion":"0.2.7"
