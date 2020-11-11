@@ -70,8 +70,8 @@
 		},
 		{
 			"name":"FireAddons",
-			"version":"1.6.1",
-			"updated":"2020-11-05",
+			"version":"1.6.2",
+			"updated":"2020-11-11",
 			"description":"Allows to use Lantern as fire starter and at level 3 firestarting, tinder can be used as fuel which will add buffs. Reworked embers and alloows crafint flint. Details in readme on github.",
 			"modURL":"https://github.com/ttr/tld-fireAddons",
 			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
