@@ -50,7 +50,7 @@
 			"name":"WarmFood",
 			"author":"<a href='https://github.com/Deus13' target='_blank'>Deus13</a> and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
 			"authorURL":"-",
-			"version":"2.3",
+			"version":"2.3.1",
 			"updated":"2020-11-12",
 			"description":"Adds warming Buff to cooked food and allows calories adjustment for each meat/fish type.",
 			"modURL":"https://github.com/ttr/tld-WarmFood",
