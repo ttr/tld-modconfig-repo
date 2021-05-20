@@ -90,8 +90,8 @@
 		},
 		{
 			"name":"ArrowMod",
-			"version":"1.2",
-			"updated":"2020-11-16",
+			"version":"1.4",
+			"updated":"2021-05-20",
 			"description":"Allows to change duration of crafting arrow and arrowhead, and also option to use line for arrow crafting (for realism).",
 			"modURL":"https://github.com/ttr/tld-ArrowMod",
 			"downloadURL":"https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
@@ -105,7 +105,7 @@
 			"status":{
 				"working":true,
 				"issues":"",
-				"notes":""
+				"notes":"Big thanks to ds5678 for mod cleanup and support."
 			}
 		},
 		{
