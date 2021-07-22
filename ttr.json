@@ -12,12 +12,16 @@
 			"modURL":"https://github.com/ttr/tld-QuickerWoodCutting",
 			"downloadURL":"https://github.com/ttr/tld-QuickerWoodCutting/releases/latest/download/QuickerWoodCutting.dll",
 			"testedon":{
-				"tldversion":"1.83+",
-				"mlversion":"0.2.7"
+				"tldversion":"1.94",
+				"mlversion":"0.4.2.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[] 
+			},
 			"status":{
 				"working":true,
 				"issues":"",
@@ -34,12 +38,16 @@
 			"modURL":"https://github.com/ttr/tld-MapTweaks",
 			"downloadURL":"https://github.com/ttr/tld-MapTweaks/releases/latest/download/MapTweaks.dll",
 			"testedon":{
-				"tldversion":"1.83+",
-				"mlversion":"0.2.7"
+				"tldversion":"1.94",
+				"mlversion":"0.4.2.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[] 
+			},
 			"status":{
 				"working":true,
 				"issues":"",
@@ -56,12 +64,16 @@
 			"modURL":"https://github.com/ttr/tld-WarmFood",
 			"downloadURL":"https://github.com/ttr/tld-WarmFood/releases/latest/download/WarmFood.dll",
 			"testedon":{
-				"tldversion":"1.83+",
-				"mlversion":"0.2.7"
+				"tldversion":"1.94",
+				"mlversion":"0.4.2.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[] 
+			},
 			"status":{
 				"working":true,
 				"issues":"",
@@ -76,12 +88,16 @@
 			"modURL":"https://github.com/ttr/tld-fireAddons",
 			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
 			"testedon":{
-				"tldversion":"1.83+",
-				"mlversion":"0.2.7"
+				"tldversion":"1.94",
+				"mlversion":"0.4.2.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[] 
+			},
 			"status":{
 				"working":true,
 				"issues":"",
@@ -96,12 +112,16 @@
 			"modURL":"https://github.com/ttr/tld-ArrowMod",
 			"downloadURL":"https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
 			"testedon":{
-				"tldversion":"1.83+",
-				"mlversion":"0.2.7"
+				"tldversion":"1.94",
+				"mlversion":"0.4.2.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[] 
+			},
 			"status":{
 				"working":true,
 				"issues":"",
@@ -118,12 +138,16 @@
 			"modURL":"https://github.com/ttr/tld-StruggleTweaks",
 			"downloadURL":"https://github.com/ttr/tld-StruggleTweaks/releases/latest/download/StruggleTweaks.dll",
 			"testedon":{
-				"tldversion":"1.83+",
-				"mlversion":"0.2.7"
+				"tldversion":"1.94",
+				"mlversion":"0.4.2.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[] 
+			},
 			"status":{
 				"working":true,
 				"issues":"",
@@ -138,12 +162,16 @@
 			"modURL":"https://github.com/ttr/tld-MooseSatchelMod",
 			"downloadURL":"https://github.com/ttr/tld-MooseSatchelMod/releases/latest/download/MooseSatchelMod.dll",
 			"testedon":{
-				"tldversion":"1.86+",
-				"mlversion":"0.2.7"
+				"tldversion":"1.94",
+				"mlversion":"0.4.2.0"
 			},
 			"dependencies":[
 				"ModSettings"
 			],
+			"updater":{
+				"enable":true,
+				"downloads":[] 
+			},
 			"status":{
 				"working":true,
 				"issues":"",
