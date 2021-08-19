@@ -82,8 +82,8 @@
 		},
 		{
 			"name":"FireAddons",
-			"version":"1.8.0",
-			"updated":"2021-05-25",
+			"version":"1.8.1",
+			"updated":"2021-08-19",
 			"description":"Allows to use Lantern as fire starter, tinder can be used as fuel and tinder contribiute to firestarting buffs. Reworked embers and allows crafting flint. Details in readme on github.",
 			"modURL":"https://github.com/ttr/tld-fireAddons",
 			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
@@ -99,8 +99,8 @@
 				"downloads":[] 
 			},
 			"status":{
-				"working":false,
-				"issues":"Failed fire start will cause fire object to go unaccesible.",
+				"working":true,
+				"issues":"",
 				"notes":""
 			}
 		},
