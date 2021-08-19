@@ -99,8 +99,8 @@
 				"downloads":[] 
 			},
 			"status":{
-				"working":true,
-				"issues":"",
+				"working":false,
+				"issues":"Failed fire start will cause fire object to go unaccesible.",
 				"notes":""
 			}
 		},
