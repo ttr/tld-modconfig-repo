@@ -32,14 +32,14 @@
 			"name":"MapTweaks",
 			"author":"<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>, and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
 			"authorURL":"-",
-			"version":"2.0",
-			"updated":"2020-10-21",
-			"description":"Change time and range of map survey",
+			"version":"2.2",
+			"updated":"2021-08-22",
+			"description":"Change time and range of map survey. Allows get vista bonus w/o polaroids",
 			"modURL":"https://github.com/ttr/tld-MapTweaks",
 			"downloadURL":"https://github.com/ttr/tld-MapTweaks/releases/latest/download/MapTweaks.dll",
 			"testedon":{
 				"tldversion":"1.94",
-				"mlversion":"0.4.2.0"
+				"mlversion":"0.4.3"
 			},
 			"dependencies":[
 				"ModSettings"
@@ -89,7 +89,7 @@
 			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
 			"testedon":{
 				"tldversion":"1.94",
-				"mlversion":"0.4.2.0"
+				"mlversion":"0.4.3"
 			},
 			"dependencies":[
 				"ModSettings"
@@ -106,14 +106,14 @@
 		},
 		{
 			"name":"ArrowMod",
-			"version":"1.5",
-			"updated":"2021-05-25",
+			"version":"1.6.0",
+			"updated":"2021-08-22",
 			"description":"Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.",
 			"modURL":"https://github.com/ttr/tld-ArrowMod",
 			"downloadURL":"https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
 			"testedon":{
 				"tldversion":"1.94",
-				"mlversion":"0.4.2.0"
+				"mlversion":"0.4.3"
 			},
 			"dependencies":[
 				"ModSettings"
