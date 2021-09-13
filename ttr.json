@@ -25,7 +25,7 @@
 			"status":{
 				"working":true,
 				"issues":"",
-				"notes":""
+				"notes":"Still works, but deprecated in fav of ToolsQuality - TQ have this functionality."
 			}
 		},
 		{
@@ -199,7 +199,7 @@
 			"status":{
 				"working":true,
 				"issues":"",
-				"notes":""
+				"notes":"Please remove QuickerWoodCutting mod as it's redundant to this."
 			}
 		}
 	]
