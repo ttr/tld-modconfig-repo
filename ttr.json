@@ -20,7 +20,7 @@
 			],
 			"updater":{
 				"enable":true,
-				"downloads":[] 
+				"downloads":[]
 			},
 			"status":{
 				"working":true,
@@ -46,7 +46,7 @@
 			],
 			"updater":{
 				"enable":true,
-				"downloads":[] 
+				"downloads":[]
 			},
 			"status":{
 				"working":true,
@@ -72,7 +72,7 @@
 			],
 			"updater":{
 				"enable":true,
-				"downloads":[] 
+				"downloads":[]
 			},
 			"status":{
 				"working":true,
@@ -96,7 +96,7 @@
 			],
 			"updater":{
 				"enable":true,
-				"downloads":[] 
+				"downloads":[]
 			},
 			"status":{
 				"working":true,
@@ -120,7 +120,7 @@
 			],
 			"updater":{
 				"enable":true,
-				"downloads":[] 
+				"downloads":[]
 			},
 			"status":{
 				"working":true,
@@ -146,7 +146,7 @@
 			],
 			"updater":{
 				"enable":true,
-				"downloads":[] 
+				"downloads":[]
 			},
 			"status":{
 				"working":true,
@@ -170,7 +170,31 @@
 			],
 			"updater":{
 				"enable":true,
-				"downloads":[] 
+				"downloads":[]
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"ToolsQuality",
+			"version":"1.0",
+			"updated":"2021-09-13",
+			"description":"Keep Your tools sharp. Low condition of tool increase time to perform actions.",
+			"modURL":"https://github.com/ttr/tld-ToolsQuality",
+			"downloadURL":"https://github.com/ttr/tld-ToolsQuality/releases/latest/download/ToolsQuality.dll",
+			"testedon":{
+				"tldversion":"1.94",
+				"mlversion":"0.4.2.0"
+			},
+			"dependencies":[
+				"ModSettings"
+			],
+			"updater":{
+				"enable":true,
+				"downloads":[]
 			},
 			"status":{
 				"working":true,
