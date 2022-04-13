@@ -4,8 +4,7 @@
 	"mods":[
 		{
 			"name":"QuickerWoodCutting",
-			"author":"<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a> and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
-			"authorURL":"-",
+			"previousAuthors":"<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
 			"version":"2.0",
 			"updated":"2020-10-21",
 			"description":"Change time needed to chop wood",
@@ -25,21 +24,20 @@
 			"status":{
 				"working":true,
 				"issues":"",
-				"notes":"Still works, but deprecated in fav of ToolsQuality - TQ have this functionality."
+				"notes":"Deprecated in fav of ToolsQuality - TQ have this functionality."
 			}
 		},
 		{
 			"name":"MapTweaks",
-			"author":"<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>, and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
-			"authorURL":"-",
-			"version":"2.2",
-			"updated":"2021-08-22",
+			"previousAuthors":"<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
+			"version":"2.3",
+			"updated":"2022-04-12",
 			"description":"Change time and range of map survey. Allows get vista bonus w/o polaroids",
 			"modURL":"https://github.com/ttr/tld-MapTweaks",
 			"downloadURL":"https://github.com/ttr/tld-MapTweaks/releases/latest/download/MapTweaks.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.3"
+				"tldversion":"2.0",
+				"mlversion":"0.5.4"
 			},
 			"dependencies":[
 				"ModSettings"
@@ -106,14 +104,14 @@
 		},
 		{
 			"name":"ArrowMod",
-			"version":"1.6.0",
-			"updated":"2021-08-22",
+			"version":"1.7.0",
+			"updated":"2022-04-12",
 			"description":"Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.",
 			"modURL":"https://github.com/ttr/tld-ArrowMod",
 			"downloadURL":"https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
 			"testedon":{
 				"tldversion":"1.94",
-				"mlversion":"0.4.3"
+				"mlversion":"0.4.2"
 			},
 			"dependencies":[
 				"ModSettings"
@@ -130,8 +128,7 @@
 		},
 		{
 			"name":"StruggleTweaks",
-			"author":"<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a> and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
-			"authorURL":"-",
+			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>",
 			"version":"2.2",
 			"updated":"2021-05-19",
 			"description":"Set chance to instantly kill wolf after struggle or change bleedout time for wolf. Also you can change tap power to save your mouse buttons",
