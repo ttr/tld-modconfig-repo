@@ -54,16 +54,15 @@
 		},
 		{
 			"name":"WarmFood",
-			"author":"<a href='https://github.com/Deus13' target='_blank'>Deus13</a> and <a href='https://github.com/ttr' target='_blank'>ttr</a>",
-			"authorURL":"-",
-			"version":"2.3.1",
-			"updated":"2020-11-12",
+			"previousAuthors":"<a href='https://github.com/Deus13' target='_blank'>Deus13</a>",
+			"version":"2.4.0",
+			"updated":"2022-04-12",
 			"description":"Adds warming Buff to cooked food and allows calories adjustment for each meat/fish type.",
 			"modURL":"https://github.com/ttr/tld-WarmFood",
 			"downloadURL":"https://github.com/ttr/tld-WarmFood/releases/latest/download/WarmFood.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.2.0"
+				"tldversion":"2.0",
+				"mlversion":"0.5.4"
 			},
 			"dependencies":[
 				"ModSettings"
