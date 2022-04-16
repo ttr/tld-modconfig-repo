@@ -79,8 +79,8 @@
 		},
 		{
 			"name":"FireAddons",
-			"version":"2.0.0",
-			"updated":"2022-04-12",
+			"version":"2.1.0",
+			"updated":"2022-04-16",
 			"description":"Allows to use Lantern as fire starter, tinder can be used as fuel and tinder contribiute to firestarting buffs. Reworked embers and allows crafting flint. Details in readme on github.",
 			"modURL":"https://github.com/ttr/tld-fireAddons",
 			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
@@ -176,14 +176,14 @@
 		},
 		{
 			"name":"ToolsQuality",
-			"version":"1.0",
-			"updated":"2021-09-13",
+			"version":"1.1",
+			"updated":"2022-04-16",
 			"description":"Keep Your tools sharp. Low condition of tool increase time to perform actions.",
 			"modURL":"https://github.com/ttr/tld-ToolsQuality",
 			"downloadURL":"https://github.com/ttr/tld-ToolsQuality/releases/latest/download/ToolsQuality.dll",
 			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.2.0"
+				"tldversion":"2.0",
+				"mlversion":"0.5.4"
 			},
 			"dependencies":[
 				"ModSettings"
