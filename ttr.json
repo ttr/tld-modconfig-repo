@@ -103,8 +103,8 @@
 		},
 		{
 			"name":"ArrowMod",
-			"version":"1.7.0",
-			"updated":"2022-04-16",
+			"version":"1.7.1",
+			"updated":"2022-07-25",
 			"description":"Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.",
 			"modURL":"https://github.com/ttr/tld-ArrowMod",
 			"downloadURL":"https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
