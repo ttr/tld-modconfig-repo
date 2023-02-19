@@ -161,7 +161,11 @@
 			"modURL": "https://github.com/ttr/tld-StruggleTweaks",
 			"description": "Set chance to instantly kill wolf after struggle or change bleedout time for wolf. Also you can change tap power to save your mouse buttons",
 			"tags": "",
-			"categories": [],
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Cheats"
+			],
 			"gameversion": [],
 			"images": [],
 			"dependencies": [
