@@ -150,13 +150,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.3",
+			"version": "2.4.0",
 			"name": "StruggleTweaks",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>",
 			"released": "",
-			"updated": "2022-04-16",
+			"updated": "2023-02-19",
 			"downloadURL": "https://github.com/ttr/tld-StruggleTweaks/releases/latest/download/StruggleTweaks.dll",
 			"modURL": "https://github.com/ttr/tld-StruggleTweaks",
 			"description": "Set chance to instantly kill wolf after struggle or change bleedout time for wolf. Also you can change tap power to save your mouse buttons",
@@ -168,15 +168,15 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
