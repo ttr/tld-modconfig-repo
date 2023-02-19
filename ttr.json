@@ -1,202 +1,303 @@
 {
-	"author":"ttr",
-	"authorURL":"https://github.com/ttr",
-	"mods":[
+	"version": "2",
+	"author": "ttr",
+	"authorURL": "https://github.com/ttr",
+	"supportURL": "",
+	"mods": [
 		{
-			"name":"QuickerWoodCutting",
-			"previousAuthors":"<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
-			"version":"2.0",
-			"updated":"2020-10-21",
-			"description":"Change time needed to chop wood",
-			"modURL":"https://github.com/ttr/tld-QuickerWoodCutting",
-			"downloadURL":"https://github.com/ttr/tld-QuickerWoodCutting/releases/latest/download/QuickerWoodCutting.dll",
-			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.2.0"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "2.0",
+			"name": "QuickerWoodCutting",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
+			"released": "",
+			"updated": "2020-10-21",
+			"downloadURL": "https://github.com/ttr/tld-QuickerWoodCutting/releases/latest/download/QuickerWoodCutting.dll",
+			"modURL": "https://github.com/ttr/tld-QuickerWoodCutting",
+			"description": "Change time needed to chop wood",
+			"tags": "",
+			"categories": [],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Deprecated in fav of ToolsQuality - TQ have this functionality.",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":"Deprecated in fav of ToolsQuality - TQ have this functionality."
-			}
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.2.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"MapTweaks",
-			"previousAuthors":"<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
-			"version":"2.3",
-			"updated":"2022-04-12",
-			"description":"Change time and range of map survey. Allows get vista bonus w/o polaroids",
-			"modURL":"https://github.com/ttr/tld-MapTweaks",
-			"downloadURL":"https://github.com/ttr/tld-MapTweaks/releases/latest/download/MapTweaks.dll",
-			"testedon":{
-				"tldversion":"2.0",
-				"mlversion":"0.5.4"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "2.3",
+			"name": "MapTweaks",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
+			"released": "",
+			"updated": "2022-04-12",
+			"downloadURL": "https://github.com/ttr/tld-MapTweaks/releases/latest/download/MapTweaks.dll",
+			"modURL": "https://github.com/ttr/tld-MapTweaks",
+			"description": "Change time and range of map survey. Allows get vista bonus w/o polaroids",
+			"tags": "",
+			"categories": [],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.0",
+				"mlversion": "0.5.4"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"WarmFood",
-			"previousAuthors":"<a href='https://github.com/Deus13' target='_blank'>Deus13</a>",
-			"version":"2.4.0",
-			"updated":"2022-04-12",
-			"description":"Adds warming Buff to cooked food and allows calories adjustment for each meat/fish type. Future sucessor: <a href='https://xpazeman.com/tld-mod-list/?q=food%20tweaker'>Food Tweaker</a>",
-			"modURL":"https://github.com/ttr/tld-WarmFood",
-			"downloadURL":"https://github.com/ttr/tld-WarmFood/releases/latest/download/WarmFood.dll",
-			"testedon":{
-				"tldversion":"2.0",
-				"mlversion":"0.5.4"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "2.4.0",
+			"name": "WarmFood",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "<a href='https://github.com/Deus13' target='_blank'>Deus13</a>",
+			"released": "",
+			"updated": "2022-04-12",
+			"downloadURL": "https://github.com/ttr/tld-WarmFood/releases/latest/download/WarmFood.dll",
+			"modURL": "https://github.com/ttr/tld-WarmFood",
+			"description": "Adds warming Buff to cooked food and allows calories adjustment for each meat/fish type. Future sucessor: <a href='https://xpazeman.com/tld-mod-list/?q=food%20tweaker'>Food Tweaker</a>",
+			"tags": "",
+			"categories": [],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.0",
+				"mlversion": "0.5.4"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"FireAddons",
-			"version":"2.1.1",
-			"updated":"2022-04-29",
-			"description":"Allows to use Lantern as fire starter, tinder can be used as fuel and tinder contribiute to firestarting buffs. Reworked embers and allows crafting flint. Details in readme on github.",
-			"modURL":"https://github.com/ttr/tld-fireAddons",
-			"downloadURL":"https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
-			"testedon":{
-				"tldversion":"2.0",
-				"mlversion":"0.5.4"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "2.1.1",
+			"name": "FireAddons",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-04-29",
+			"downloadURL": "https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
+			"modURL": "https://github.com/ttr/tld-fireAddons",
+			"description": "Allows to use Lantern as fire starter, tinder can be used as fuel and tinder contribiute to firestarting buffs. Reworked embers and allows crafting flint. Details in readme on github.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.0",
+				"mlversion": "0.5.4"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"ArrowMod",
-			"version":"1.7.1",
-			"updated":"2022-07-25",
-			"description":"Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.",
-			"modURL":"https://github.com/ttr/tld-ArrowMod",
-			"downloadURL":"https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
-			"testedon":{
-				"tldversion":"2.0",
-				"mlversion":"0.5.4"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "1.7.1",
+			"name": "ArrowMod",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2022-07-25",
+			"downloadURL": "https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
+			"modURL": "https://github.com/ttr/tld-ArrowMod",
+			"description": "Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.",
+			"tags": "",
+			"categories": [],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Big thanks to ds5678 for mod cleanup and support.",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":"Big thanks to ds5678 for mod cleanup and support."
-			}
+			"testedon": {
+				"tldversion": "2.0",
+				"mlversion": "0.5.4"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"StruggleTweaks",
+			"type": "mod",
+			"version": "2.3",
+			"name": "StruggleTweaks",
+			"displayName": "",
+			"author": "",
 			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>",
-			"version":"2.3",
-			"updated":"2022-04-16",
-			"description":"Set chance to instantly kill wolf after struggle or change bleedout time for wolf. Also you can change tap power to save your mouse buttons",
-			"modURL":"https://github.com/ttr/tld-StruggleTweaks",
-			"downloadURL":"https://github.com/ttr/tld-StruggleTweaks/releases/latest/download/StruggleTweaks.dll",
-			"testedon":{
-				"tldversion":"2.0",
-				"mlversion":"0.5.4"
-			},
-			"dependencies":[
+			"released": "",
+			"updated": "2022-04-16",
+			"downloadURL": "https://github.com/ttr/tld-StruggleTweaks/releases/latest/download/StruggleTweaks.dll",
+			"modURL": "https://github.com/ttr/tld-StruggleTweaks",
+			"description": "Set chance to instantly kill wolf after struggle or change bleedout time for wolf. Also you can change tap power to save your mouse buttons",
+			"tags": "",
+			"categories": [],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "2.0",
+				"mlversion": "0.5.4"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"MooseSatchelMod",
-			"version":"1.2",
-			"updated":"2021-06-03",
-			"description":"Reduce scent and decay for meat, fish and guts, if using Moose Bag",
-			"modURL":"https://github.com/ttr/tld-MooseSatchelMod",
-			"downloadURL":"https://github.com/ttr/tld-MooseSatchelMod/releases/latest/download/MooseSatchelMod.dll",
-			"testedon":{
-				"tldversion":"1.94",
-				"mlversion":"0.4.2.0"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "1.2",
+			"name": "MooseSatchelMod",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2021-06-03",
+			"downloadURL": "https://github.com/ttr/tld-MooseSatchelMod/releases/latest/download/MooseSatchelMod.dll",
+			"modURL": "https://github.com/ttr/tld-MooseSatchelMod",
+			"description": "Reduce scent and decay for meat, fish and guts, if using Moose Bag",
+			"tags": "",
+			"categories": [],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": false,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
+			"testedon": {
+				"tldversion": "1.94",
+				"mlversion": "0.4.2.0"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		},
 		{
-			"name":"ToolsQuality",
-			"version":"1.1",
-			"updated":"2022-04-16",
-			"description":"Keep Your tools sharp. Low condition of tool increase time to perform actions.",
-			"modURL":"https://github.com/ttr/tld-ToolsQuality",
-			"downloadURL":"https://github.com/ttr/tld-ToolsQuality/releases/latest/download/ToolsQuality.dll",
-			"testedon":{
-				"tldversion":"2.0",
-				"mlversion":"0.5.4"
-			},
-			"dependencies":[
+			"type": "mod",
+			"version": "1.2",
+			"name": "ToolsQuality",
+			"displayName": "",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-02-19",
+			"downloadURL": "https://github.com/ttr/tld-ToolsQuality/releases/latest/download/ToolsQuality.dll",
+			"modURL": "https://github.com/ttr/tld-ToolsQuality",
+			"description": "Keep Your tools sharp. Low condition of tool increase time to perform actions.",
+			"tags": "",
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Gear Items"
+			],
+			"gameversion": [],
+			"images": [
+				"https://github.com/ttr/tld-ToolsQuality/raw/master/TQ-1.png",
+				"https://github.com/ttr/tld-ToolsQuality/raw/master/TQ-2.png"
+			],
+			"dependencies": [
 				"ModSettings"
 			],
-			"updater":{
-				"enable":true,
-				"downloads":[]
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "Please remove QuickerWoodCutting mod as it's redundant to this.",
+				"issues": ""
 			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":"Please remove QuickerWoodCutting mod as it's redundant to this."
-			}
+			"testedon": {
+				"tldversion": "2.02",
+				"mlversion": "0.6"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
