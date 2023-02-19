@@ -6,42 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.0",
-			"name": "QuickerWoodCutting",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "<a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
-			"released": "",
-			"updated": "2020-10-21",
-			"downloadURL": "https://github.com/ttr/tld-QuickerWoodCutting/releases/latest/download/QuickerWoodCutting.dll",
-			"modURL": "https://github.com/ttr/tld-QuickerWoodCutting",
-			"description": "Change time needed to chop wood",
-			"tags": "",
-			"categories": [],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "Deprecated in fav of ToolsQuality - TQ have this functionality.",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "1.94",
-				"mlversion": "0.4.2.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.3",
 			"name": "MapTweaks",
 			"displayName": "",
