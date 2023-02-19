@@ -240,8 +240,7 @@
 			],
 			"gameversion": [],
 			"images": [
-				"https://github.com/ttr/tld-ToolsQuality/raw/master/TQ-1.png",
-				"https://github.com/ttr/tld-ToolsQuality/raw/master/TQ-2.png"
+				"https://github.com/ttr/tld-ToolsQuality/raw/master/TQ-1.png"
 			],
 			"dependencies": [
 				"ModSettings"
