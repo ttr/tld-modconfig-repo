@@ -6,33 +6,37 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.3",
+			"version": "2.4",
 			"name": "MapTweaks",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
 			"released": "",
-			"updated": "2022-04-12",
+			"updated": "2023-02-19",
 			"downloadURL": "https://github.com/ttr/tld-MapTweaks/releases/latest/download/MapTweaks.dll",
 			"modURL": "https://github.com/ttr/tld-MapTweaks",
 			"description": "Change time and range of map survey. Allows get vista bonus w/o polaroids",
 			"tags": "",
-			"categories": [],
+			"categories": [
+				"Quality of Life",
+				"Gameplay",
+				"Cheats"
+			],
 			"gameversion": [],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
+				"tldversion": "2.06",
+				"mlversion": "0.6.0"
 			},
 			"updater": {
 				"enable": true,
