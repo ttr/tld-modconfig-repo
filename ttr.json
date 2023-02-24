@@ -19,7 +19,6 @@
 			"tags": "",
 			"categories": [
 				"Quality of Life",
-				"Gameplay",
 				"Cheats"
 			],
 			"gameversion": [],
@@ -118,33 +117,36 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.7.1",
+			"version": "1.8.0",
 			"name": "ArrowMod",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-07-25",
+			"updated": "2023-02-24",
 			"downloadURL": "https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
 			"modURL": "https://github.com/ttr/tld-ArrowMod",
-			"description": "Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.",
+			"description": "Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.\n\nWarning: game needs to be restarted after settings change.",
 			"tags": "",
-			"categories": [],
+			"categories": [
+				"Gameplay",
+				"Gear Items"
+			],
 			"gameversion": [],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "Big thanks to ds5678 for mod cleanup and support.",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
+				"tldversion": "2.06",
+				"mlversion": "0.6"
 			},
 			"updater": {
 				"enable": true,
@@ -242,7 +244,6 @@
 			"description": "Keep Your tools sharp. Low condition of tool increase time to perform actions.",
 			"tags": "",
 			"categories": [
-				"Quality of Life",
 				"Gameplay",
 				"Gear Items"
 			],
