@@ -81,13 +81,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.1.1",
+			"version": "3.0.0",
 			"name": "FireAddons",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2022-04-29",
+			"updated": "2024-05-14",
 			"downloadURL": "https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
 			"modURL": "https://github.com/ttr/tld-fireAddons",
 			"description": "Allows to use Lantern as fire starter, tinder can be used as fuel and tinder contribiute to firestarting buffs. Reworked embers and allows crafting flint. Details in readme on github.",
@@ -96,18 +96,19 @@
 			"gameversion": [],
 			"images": [],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"ModData"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
