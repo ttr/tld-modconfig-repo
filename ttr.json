@@ -110,6 +110,7 @@
 				"tldversion": "2.27",
 				"mlversion": "0.6.1"
 			},
+			"gameversion": ["vanilla","tftft"],
 			"updater": {
 				"enable": true,
 				"downloads": []
@@ -225,6 +226,7 @@
 				"tldversion": "2.27",
 				"mlversion": "0.6.1"
 			},
+			"gameversion": ["vanilla","tftft"],
 			"updater": {
 				"enable": true,
 				"downloads": []
@@ -304,6 +306,7 @@
 				"tldversion": "2.27",
 				"mlversion": "0.6.1"
 			},
+			"gameversion": ["vanilla","tftft"],
 			"updater": {
 				"enable": true,
 				"downloads": []
