@@ -271,6 +271,44 @@
 				"downloads": []
 			},
 			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.1.0",
+			"name": "InDoorTemp",
+			"displayName": "In Door Temps",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2023-02-19",
+			"downloadURL": "https://github.com/ttr/tld-InDoorTemps/releases/latest/download/IndoorTemps.dll",
+			"modURL": "https://github.com/ttr/tld-InDoorTemps",
+			"description": "INdoor temps are aligned with outdoor ones. Shelters (snow, cars, caves) do not add flat bonus anymore.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
+			},
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
 		}
 	]
 }
