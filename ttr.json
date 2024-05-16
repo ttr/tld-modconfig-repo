@@ -197,13 +197,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.2",
+			"version": "2.0.0",
 			"name": "MooseSatchelMod",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2021-06-03",
+			"updated": "2024-05-16",
 			"downloadURL": "https://github.com/ttr/tld-MooseSatchelMod/releases/latest/download/MooseSatchelMod.dll",
 			"modURL": "https://github.com/ttr/tld-MooseSatchelMod",
 			"description": "Reduce scent and decay for meat, fish and guts, if using Moose Bag",
@@ -215,15 +215,15 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "1.94",
-				"mlversion": "0.4.2.0"
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
@@ -280,7 +280,7 @@
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-02-19",
+			"updated": "2024-05-16",
 			"downloadURL": "https://github.com/ttr/tld-InDoorTemps/releases/latest/download/IndoorTemps.dll",
 			"modURL": "https://github.com/ttr/tld-InDoorTemps",
 			"description": "INdoor temps are aligned with outdoor ones. Shelters (snow, cars, caves) do not add flat bonus anymore.",
