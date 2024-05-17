@@ -119,36 +119,37 @@
 		},
 		{
 			"type": "mod",
-			"version": "1.8.1",
+			"version": "3.1.0",
 			"name": "ArrowMod",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2023-02-24",
+			"updated": "2024-05-17",
 			"downloadURL": "https://github.com/ttr/tld-ArrowMod/releases/latest/download/ArrowMod.dll",
 			"modURL": "https://github.com/ttr/tld-ArrowMod",
-			"description": "Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.\n\nWarning: game needs to be restarted after settings change.",
+			"description": "Allows to change duration of crafting arrow and arrowhead. Adds additionall crafting options for arrows.\n\n Game Restart might be required after settingts change.",
 			"tags": "",
 			"categories": [
 				"Gameplay",
 				"Gear Items"
 			],
-			"gameversion": [],
+			"gameversion": ["vanilla","tftft"],
 			"images": [],
 			"dependencies": [
-				"ModSettings"
+				"ModSettings",
+				"CraftingRevisions"
 			],
 			"status": {
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Big thanks to ds5678 for mod cleanup and support.",
+				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.06",
-				"mlversion": "0.6"
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
 			},
 			"updater": {
 				"enable": true,
