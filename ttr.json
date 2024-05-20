@@ -286,7 +286,46 @@
 			"updated": "2024-05-16",
 			"downloadURL": "https://github.com/ttr/tld-InDoorTemps/releases/latest/download/IndoorTemps.dll",
 			"modURL": "https://github.com/ttr/tld-InDoorTemps",
-			"description": "INdoor temps are aligned with outdoor ones. Shelters (snow, cars, caves) do not add flat bonus anymore.",
+			"description": "Indoor temps are aligned with outdoor ones. Shelters (snow, cars, caves) do not add flat bonus anymore.",
+			"tags": "",
+			"categories": [
+				"Gameplay"
+			],
+			"gameversion": [],
+			"images": [],
+			"dependencies": [
+				"ModSettings"
+			],
+			"status": {
+				"working": true,
+				"beta": false,
+				"patchnotes": "",
+				"notes": "",
+				"issues": ""
+			},
+			"testedon": {
+				"tldversion": "2.27",
+				"mlversion": "0.6.1"
+			},
+			"gameversion": ["vanilla","tftft"],
+			"updater": {
+				"enable": true,
+				"downloads": []
+			},
+			"aliases": []
+		},
+		{
+			"type": "mod",
+			"version": "0.2.0",
+			"name": "potRecycle",
+			"displayName": "Recycle cans, pots and skillets",
+			"author": "",
+			"previousAuthors": "",
+			"released": "",
+			"updated": "2024-05-20",
+			"downloadURL": "https://github.com/ttr/tld-InDoorTemps/releases/latest/download/IndoorTemps.dll",
+			"modURL": "https://github.com/ttr/tld-InDoorTemps",
+			"description": "Smelt pot/cans/skillets in forg to get scrap.",
 			"tags": "",
 			"categories": [
 				"Gameplay"
