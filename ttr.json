@@ -245,7 +245,7 @@
 			"updated": "2024-05-25",
 			"downloadURL": "https://github.com/ttr/tld-ToolsQuality/releases/latest/download/ToolsQuality.dll",
 			"modURL": "https://github.com/ttr/tld-ToolsQuality",
-			"description": "Keep Your tools sharp. Low condition of tool increase time to perform actions.",
+			"description": "Keep Your tools sharp. Low condition of tool increase time to perform actions. Adjust harvesting time multiplier of carcass/branches.",
 			"tags": "",
 			"categories": [
 				"Gameplay",
