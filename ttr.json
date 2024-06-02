@@ -92,7 +92,10 @@
 			"modURL": "https://github.com/ttr/tld-fireAddons",
 			"description": "Smoldering Ash, cooking time based on temperature, different tinder have different fire starting buffs. Details in readme on github.",
 			"tags": "",
-			"categories": [],
+			"categories": [
+				"Gameplay",
+				"Overhaul"
+			],
 			"images": ["https://raw.githubusercontent.com/ttr/tld-fireAddons/master/media/cooking.png", "https://raw.githubusercontent.com/ttr/tld-fireAddons/master/media/embers.png"],
 			"dependencies": [
 				"ModSettings",
