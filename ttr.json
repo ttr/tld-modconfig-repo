@@ -81,20 +81,19 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.0.4",
+			"version": "3.1.1",
 			"name": "FireAddons",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2024-05-29",
+			"updated": "2024-06-02",
 			"downloadURL": "https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
 			"modURL": "https://github.com/ttr/tld-fireAddons",
-			"description": "Allows to use Lantern as fire starter, tinder can be used as fuel and tinder contribiute to firestarting buffs. Reworked embers and allows crafting flint. Details in readme on github.",
+			"description": "Smoldering Ash, cooking time based on temperature, different tinder have different fire starting buffs. Details in readme on github.",
 			"tags": "",
 			"categories": [],
-			"gameversion": [],
-			"images": [],
+			"images": ["https://raw.githubusercontent.com/ttr/tld-fireAddons/master/media/cooking.png", "https://raw.githubusercontent.com/ttr/tld-fireAddons/master/media/embers.png"],
 			"dependencies": [
 				"ModSettings",
 				"ModData"
@@ -211,7 +210,6 @@
 			"description": "Reduce scent and decay for meat, fish and guts, if using Moose Bag",
 			"tags": "",
 			"categories": [],
-			"gameversion": [],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
@@ -291,7 +289,6 @@
 			"categories": [
 				"Gameplay"
 			],
-			"gameversion": [],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
@@ -330,7 +327,6 @@
 			"categories": [
 				"Gameplay"
 			],
-			"gameversion": [],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
