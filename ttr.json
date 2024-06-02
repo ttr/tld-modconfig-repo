@@ -212,7 +212,9 @@
 			"modURL": "https://github.com/ttr/tld-MooseSatchelMod",
 			"description": "Reduce scent and decay for meat, fish and guts, if using Moose Bag",
 			"tags": "",
-			"categories": [],
+			"categories": [
+				"Gameplay"
+			],
 			"images": [],
 			"dependencies": [
 				"ModSettings"
