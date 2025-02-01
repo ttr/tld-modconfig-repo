@@ -81,13 +81,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "3.1.4",
+			"version": "3.1.5",
 			"name": "FireAddons",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2024-06-04",
+			"updated": "2024-12-19",
 			"downloadURL": "https://github.com/ttr/tld-fireAddons/releases/latest/download/FireAddons.dll",
 			"modURL": "https://github.com/ttr/tld-fireAddons",
 			"description": "Smoldering Ash, cooking time based on temperature, different tinder have different fire starting buffs. Details in readme on github.",
@@ -102,15 +102,15 @@
 				"ModData"
 			],
 			"status": {
-				"working": false,
+				"working": true,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
-				"mlversion": "0.6.1"
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
 			},
 			"gameversion": ["vanilla","tftft"],
 			"updater": {
