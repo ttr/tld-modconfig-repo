@@ -6,45 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.4",
-			"name": "MapTweaks",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "<a href='https://github.com/AlexTheRegent' target='_blank'>AlexTheRegent</a>, <a href='https://github.com/MikeyPdog' target='_blank'>MikeyPdog</a>",
-			"released": "",
-			"updated": "2023-02-19",
-			"downloadURL": "https://github.com/ttr/tld-MapTweaks/releases/latest/download/MapTweaks.dll",
-			"modURL": "https://github.com/ttr/tld-MapTweaks",
-			"description": "[DEPRECATED] Please use Map Manager. This will be removed in future.\n\n\n Change time and range of map survey. Allows get vista bonus w/o polaroids",
-			"tags": "",
-			"categories": [
-				"Quality of Life",
-				"Cheats"
-			],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": true,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.06",
-				"mlversion": "0.6.0"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "2.4.0",
 			"name": "WarmFood",
 			"displayName": "",
@@ -150,7 +111,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.36",
+				"tldversion": "2.39",
 				"mlversion": "0.6.6"
 			},
 			"updater": {
@@ -269,7 +230,7 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.36",
+				"tldversion": "2.39",
 				"mlversion": "0.6."
 			},
 			"updater": {
@@ -280,13 +241,13 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.2.1",
+			"version": "0.3.1",
 			"name": "InDoorTemp",
 			"displayName": "In Door Temps",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2024-05-24",
+			"updated": "2025-02-02",
 			"downloadURL": "https://github.com/ttr/tld-InDoorTemps/releases/latest/download/IndoorTemps.dll",
 			"modURL": "https://github.com/ttr/tld-InDoorTemps",
 			"description": "Indoor temps are aligned with outdoor ones. Shelters (snow, cars, caves) do not add flat bonus anymore.",
@@ -306,8 +267,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
-				"mlversion": "0.6.1"
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
 			},
 			"gameversion": ["vanilla","tftft"],
 			"updater": {
