@@ -181,11 +181,11 @@
 				"ModSettings"
 			],
 			"status": {
-				"working": true,
+				"working": false,
 				"beta": false,
 				"patchnotes": "",
 				"notes": "",
-				"issues": ""
+				"issues": "Needs to be updated to new wieght system // all functionality will not work."
 			},
 			"testedon": {
 				"tldversion": "2.27",
