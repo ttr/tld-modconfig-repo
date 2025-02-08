@@ -152,8 +152,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
-				"mlversion": "0.6.1"
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
 			},
 			"gameversion": ["vanilla","tftft"],
 			"updater": {
