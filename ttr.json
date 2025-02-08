@@ -6,42 +6,6 @@
 	"mods": [
 		{
 			"type": "mod",
-			"version": "2.4.0",
-			"name": "WarmFood",
-			"displayName": "",
-			"author": "",
-			"previousAuthors": "<a href='https://github.com/Deus13' target='_blank'>Deus13</a>",
-			"released": "",
-			"updated": "2022-04-12",
-			"downloadURL": "https://github.com/ttr/tld-WarmFood/releases/latest/download/WarmFood.dll",
-			"modURL": "https://github.com/ttr/tld-WarmFood",
-			"description": "Adds warming Buff to cooked food and allows calories adjustment for each meat/fish type. Future sucessor: <a href='https://xpazeman.com/tld-mod-list/?q=food%20tweaker'>Food Tweaker</a>",
-			"tags": "",
-			"categories": [],
-			"gameversion": [],
-			"images": [],
-			"dependencies": [
-				"ModSettings"
-			],
-			"status": {
-				"working": false,
-				"beta": false,
-				"patchnotes": "",
-				"notes": "",
-				"issues": ""
-			},
-			"testedon": {
-				"tldversion": "2.0",
-				"mlversion": "0.5.4"
-			},
-			"updater": {
-				"enable": true,
-				"downloads": []
-			},
-			"aliases": []
-		},
-		{
-			"type": "mod",
 			"version": "3.1.5",
 			"name": "FireAddons",
 			"displayName": "",
@@ -226,7 +190,7 @@
 				"working": true,
 				"beta": false,
 				"patchnotes": "",
-				"notes": "Please remove QuickerWoodCutting mod as it's redundant to this. Should work with Harvest Yield Tweaker",
+				"notes": "Please remove QuickerWoodCutting mod as it's redundant to this. Should work with Harvest Yield Tweaker.",
 				"issues": ""
 			},
 			"testedon": {
@@ -279,16 +243,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "0.2.0",
-			"name": "potRecycle",
-			"displayName": "Recycle cans, pots and skillets",
-			"author": "",
+			"version": "0.3.0",
+			"name": "RnStriped",
+			"displayName": "Some functionallity from Relentless Nights mod ported over as standalone",
+			"author": "RN mod and ttr",
 			"previousAuthors": "",
 			"released": "",
 			"updated": "2024-05-20",
-			"downloadURL": "https://github.com/ttr/tld-potRecycle/releases/latest/download/potRecycle.dll",
-			"modURL": "https://github.com/ttr/tld-potRecycle",
-			"description": "Smelt pot/cans/skillets in forg to get scrap.",
+			"downloadURL": "https://github.com/ttr/tld-RnStriped/releases/latest/download/RnStriped.dll",
+			"modURL": "https://github.com/ttr/tld-RnStriped",
+			"description": "Carcass moving and Light torches from electricals",
 			"tags": "",
 			"categories": [
 				"Gameplay"
@@ -305,8 +269,8 @@
 				"issues": ""
 			},
 			"testedon": {
-				"tldversion": "2.27",
-				"mlversion": "0.6.1"
+				"tldversion": "2.39",
+				"mlversion": "0.6.6"
 			},
 			"gameversion": ["vanilla","tftft"],
 			"updater": {
