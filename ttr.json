@@ -244,14 +244,14 @@
 		{
 			"type": "mod",
 			"version": "0.3.0",
-			"name": "RnStriped",
+			"name": "RnStripped",
 			"displayName": "RN-Stripped functions ",
 			"author": "RN mod and ttr",
 			"previousAuthors": "",
 			"released": "",
 			"updated": "2024-05-20",
-			"downloadURL": "https://github.com/ttr/tld-RnStriped/releases/latest/download/RnStriped.dll",
-			"modURL": "https://github.com/ttr/tld-RnStriped",
+			"downloadURL": "https://github.com/ttr/tld-RnStripped/releases/latest/download/RnStripped.dll",
+			"modURL": "https://github.com/ttr/tld-RnStripped",
 			"description": "Carcass moving and Light torches from electricals - extracted from Relentless Nights mod (check it out!)",
 			"tags": "",
 			"categories": [
