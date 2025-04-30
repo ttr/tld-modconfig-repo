@@ -126,16 +126,16 @@
 		},
 		{
 			"type": "mod",
-			"version": "2.2.0",
+			"version": "2.2.2",
 			"name": "MooseSatchelMod",
 			"displayName": "",
 			"author": "",
 			"previousAuthors": "",
 			"released": "",
-			"updated": "2025-02-08",
+			"updated": "2025-05-01",
 			"downloadURL": "https://github.com/ttr/tld-MooseSatchelMod/releases/latest/download/MooseSatchelMod.dll",
 			"modURL": "https://github.com/ttr/tld-MooseSatchelMod",
-			"description": "Reduce scent and decay for meat, fish and guts, if using Moose Bag",
+			"description": "Reduce scent and decay for meat, fish and guts and pies, if wearing Moose Bag",
 			"tags": "",
 			"categories": [
 				"Gameplay"
